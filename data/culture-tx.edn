@@ -1,0 +1,14 @@
+;; data/culture-tx.edn — DataScript tx-data derived from src/culture/facts.cljc
+;; `culture.facts/catalog` (ADR-2607171400 addendum 2, Wave 1 country-level).
+;; Same shape across every cloud-itonami-iso3166-* sibling. Do not hand-edit;
+;; regenerate from the catalog.
+
+[
+#:culture{:id "brn.dish.ambuyat", :name "Ambuyat", :country "BRN", :kind :dish, :summary "Starchy dish derived from the interior trunk of the sago palm; the national dish of Brunei, also popular in the Malaysian states of Sarawak and Sabah.", :url "https://en.wikipedia.org/wiki/Ambuyat", :url-provenance :wikipedia-en, :retrieved-at "2026-07-17"}
+#:culture{:id "brn.dish.nasi-katok", :name "Nasi katok", :country "BRN", :kind :dish, :summary "Rice dish originating from Brunei, traditionally steamed rice with fried chicken and spicy sambal sauce, wrapped in brown paper as an individual serving.", :url "https://en.wikipedia.org/wiki/Nasi_katok", :url-provenance :wikipedia-en, :retrieved-at "2026-07-17"}
+#:culture{:id "brn.dish.kelupis", :name "Kelupis", :country "BRN", :kind :dish, :summary "Traditional glutinous rice snack from East Malaysia and Brunei; in Brunei it has been recognised as a national cultural heritage.", :url "https://en.wikipedia.org/wiki/Kelupis", :url-provenance :wikipedia-en, :retrieved-at "2026-07-17"}
+#:culture{:url "https://en.wikipedia.org/wiki/Cincin", :id "brn.dish.kuih-cincin", :kind :dish, :name-local "Cincin", :country "BRN", :retrieved-at "2026-07-17", :summary "Traditional ring-shaped kuih of the Bruneian Malay people in Brunei and the Malaysian state of Sabah.", :name "Kuih cincin", :url-provenance :wikipedia-en}
+#:culture{:id "brn.craft.songket", :name "Songket", :country "BRN", :kind :craft, :summary "Hand-woven brocade fabric patterned with gold or silver threads, belonging to the textile traditions of Brunei, Indonesia and Malaysia; part of the ceremonial court dress of Bruneian royalty.", :url "https://en.wikipedia.org/wiki/Songket", :url-provenance :wikipedia-en, :retrieved-at "2026-07-17"}
+#:culture{:id "brn.heritage.kampong-ayer", :name "Kampong Ayer", :country "BRN", :kind :heritage, :summary "Historic stilt-house water settlement on the Brunei River in Bandar Seri Begawan, dating back at least to the 14th-century reign of Sultan Muhammad Shah.", :url "https://en.wikipedia.org/wiki/Kampong_Ayer", :url-provenance :wikipedia-en, :retrieved-at "2026-07-17"}
+#:culture{:id "brn.heritage.omar-ali-saifuddien-mosque", :name "Omar Ali Saifuddien Mosque", :country "BRN", :kind :heritage, :summary "State mosque in Bandar Seri Begawan completed in 1958, described as one of the biggest and most striking mosques in the Far East.", :url "https://en.wikipedia.org/wiki/Omar_Ali_Saifuddien_Mosque", :url-provenance :wikipedia-en, :retrieved-at "2026-07-17"}
+]
