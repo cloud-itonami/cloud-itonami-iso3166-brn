@@ -1,3 +1,4 @@
-# Operator Guide
+# Operator guide — BRN
 
-Human-gated filing only.
+Portal: public procurement (State Tender Board, gazette/notice-based
+tendering via Pelita Brunei). Human-gated filing only.
