@@ -5,7 +5,7 @@ Market-entry compliance for Brunei Darussalam.
 - Ministry of Finance and Economy (MOFE) public procurement -- State
   Tender Board, gazette/notice-based tendering (Pelita Brunei), no
   confirmed self-service e-procurement portal (see
-  `src/marketentry/facts.cljc`)
+  `src/marketentry/facts.kotoba`)
 - Registry of Companies and Business Names Division (ROCBN) company /
   business-name registration (Companies Act Cap. 39 / Business Names
   Act Cap. 92)
